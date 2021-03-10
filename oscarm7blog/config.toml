@@ -1,4 +1,0 @@
-baseURL = "http://example.com/"
-languageCode = "es"
-title = "Mi mini blog en Hugo"
-theme = "hugo-theme-m10c"
