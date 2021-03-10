@@ -1,41 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projecte5 Santiago Mail Server Blog</title>
-    <link>https://cf19santiago.github.io/cf19santiago-Projecte5_Blog3/</link>
-    <description>Recent content on Projecte5 Santiago Mail Server Blog</description>
+    <title>Projecte5 Blog Oscar Gonzalez</title>
+    <link>https://cf19oscargonzalez.github.io/m7blog/</link>
+    <description>Recent content on Projecte5 Blog Oscar Gonzalez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Mar 2021 15:07:55 +0100</lastBuildDate><atom:link href="https://cf19santiago.github.io/cf19santiago-Projecte5_Blog3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 15:07:55 +0100</lastBuildDate><atom:link href="https://cf19oscargonzalez.github.io/m7blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Progrés de la primera setmana</title>
-      <link>https://cf19santiago.github.io/cf19santiago-Projecte5_Blog3/posts/my-second-post/</link>
+      <title>Avanç de la primera setmana</title>
+      <link>https://cf19oscargonzalez.github.io/m7blog/posts/my-second-post/</link>
       <pubDate>Thu, 04 Mar 2021 15:07:55 +0100</pubDate>
       
-      <guid>https://cf19santiago.github.io/cf19santiago-Projecte5_Blog3/posts/my-second-post/</guid>
-      <description>Aquesta setmana, el meu grup i jo ens hem dedicat en crear un container amb el docker per fer de servidor poste i configurar els domini a dintre del mateix de forma gràfica:
--Primer vam instalar docker utilitzant els seu propi repositori de apt.
--Després vam crear el container amb el docker run:
-docker run
--p 443:443
--e TZ=Europe/Andorra
--v volum_mail_server:/data
-&amp;ndash;name pastor.edu
--h pastor.edu
--t analogic/poste.io
--Quan es va acabar de crear el container ens vam conectar al mateix desde el firefox de dmzf i vam configurar el domini amb les dades següents:</description>
+      <guid>https://cf19oscargonzalez.github.io/m7blog/posts/my-second-post/</guid>
+      <description>Aixo es una prova de funcionament sobre el blog</description>
     </item>
     
     <item>
       <title>Organització del proyecte</title>
-      <link>https://cf19santiago.github.io/cf19santiago-Projecte5_Blog3/posts/my-first-post/</link>
+      <link>https://cf19oscargonzalez.github.io/m7blog/posts/my-first-post/</link>
       <pubDate>Thu, 25 Feb 2021 16:19:18 +0100</pubDate>
       
-      <guid>https://cf19santiago.github.io/cf19santiago-Projecte5_Blog3/posts/my-first-post/</guid>
-      <description>La nostra organització per el projecte serà la següent:
-  Primer personalitzarem el domini (posant-li un nom i definint l&amp;rsquo;estructura de com crearem els correus)
-  Després buscarem informació sobre com crear certificats servidor-client i els crearem
-  Després farem una proba a dintre de dmzf amb el docker. Crearem els usuaris amb ordres i automàticament i, per finalitzar, comprobarem que podem enviar mails a usuaris de google, thunderbird etc.</description>
+      <guid>https://cf19oscargonzalez.github.io/m7blog/posts/my-first-post/</guid>
+      <description>Aixo es una prova de funcionament sobre el blog</description>
     </item>
     
   </channel>
